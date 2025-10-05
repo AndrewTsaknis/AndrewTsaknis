@@ -6,9 +6,9 @@ Graduate student in Computer Science
 
 * 🌍  I'm based in Thessaloniki, Greece
 * ✉️  You can contact me at [antreaspro123@gmail.com](mailto:antreaspro123@gmail.com)
-* 🧠  I'm currently learning things about Application Support and MS Dynamics
+* 🧠  I like learning things every day
 * 🤝  I'm open to collaborating on a real business project with a team of professionals
-* ⚡  I have nothing but time
+
 
 ### Skills
 
