@@ -40,16 +40,16 @@ Linux, Android Studio, Google Cloud, Postman
 
 ### 🚀 Featured Projects
 
-🔹 [Superstore Data Analysis](https://github.com/AndrewTsaknis/superstore-data-analysis)  
+🔹 [Superstore Data Analysis](https://github.com/AndrewTsaknis/Sales-Analysis)  
 Python, Pandas, Matplotlib — Analyzed sales, profits, and category trends to extract business insights.
 
-🔹 [COVID-19 Data Analysis](https://github.com/AndrewTsaknis/covid19-analysis)  
+🔹 [COVID-19 Data Analysis](https://github.com/AndrewTsaknis/Covid19-Analysis)  
 Python, Pandas, Seaborn — Visualized pandemic trends, cases, and fatalities to track global patterns.
 
-🔹 [Sales Analysis from ExcelX](https://github.com/AndrewTsaknis/sales-analysis-excelx)  
+🔹 [Excel-VBA-Sales Analysis](https://github.com/Excel-VBA-Sales-Analysis-Workbook)  
 Excel — Processed and visualized sales data using macros, PivotTables, and charts to improve decision-making.
 
-🔹 [Sales Promotion Analysis](https://github.com/AndrewTsaknis/sales-promotion-analysis)  
+🔹 [Excel Sales and Promotion Analysis](https://github.com/AndrewTsaknis/Excel-Sales-and-Promotion-Analysis)  
 Excel, Power Pivot, Power Query — Analyzed promotion campaigns, optimized sales strategies, and created interactive dashboards.
 
 ---
