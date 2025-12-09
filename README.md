@@ -46,7 +46,7 @@ Python, Pandas, Matplotlib — Analyzed sales, profits, and category trends to e
 🔹 [COVID-19 Data Analysis](https://github.com/AndrewTsaknis/Covid19-Analysis)  
 Python, Pandas, Seaborn — Visualized pandemic trends, cases, and fatalities to track global patterns.
 
-🔹 [Excel-VBA-Sales Analysis](https://github.com/Excel-VBA-Sales-Analysis-Workbook)  
+🔹 [Excel-VBA-Sales Analysis](https://github.com/AndrewTsaknis/Excel-VBA-Sales-Analysis-Workbook)  
 Excel — Processed and visualized sales data using macros, PivotTables, and charts to improve decision-making.
 
 🔹 [Excel Sales and Promotion Analysis](https://github.com/AndrewTsaknis/Excel-Sales-and-Promotion-Analysis)  
