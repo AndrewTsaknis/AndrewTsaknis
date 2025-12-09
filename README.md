@@ -25,7 +25,7 @@ C, Java, Python, JavaScript, PHP
 HTML, CSS, REST APIs
 
 **Databases:**  
-MySQL, PostgreSQL, MongoDB, MariaDB
+MySQL, PostgreSQL, MongoDB, MariaDB, Neo4j
 
 **Data & AI:**  
 Pandas, MATLAB, PyTorch, TensorFlow
@@ -49,17 +49,16 @@ PHP, MySQL, Postman — CRUD APIs & testing
 
 ---
 
+### 📊 GitHub Metrics
+
+![AndrewTsaknis GitHub Metrics](https://metrics.lecoq.io/AndrewTsaknis)
+
+---
+
 ### 🔗 Connect with Me
+
 <p align="left">
 <a href="https://www.github.com/AndrewTsaknis" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndrewTsaknis&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewTsaknis&layout=compact&theme=dark&hide_border=true" />
