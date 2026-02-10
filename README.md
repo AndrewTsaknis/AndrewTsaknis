@@ -60,6 +60,12 @@ Here is an overview of my GitHub activity, including commits, languages, and con
 
 ![AndrewTsaknis GitHub Metrics](https://metrics.lecoq.io/AndrewTsaknis)
 
+![GitHub Metrics](https://metrics.lecoq.io/AndrewTsaknis?template=classic)
+
+![GitHub Metrics](https://metrics.lecoq.io/AndrewTsaknis?template=classic&base.header=0&base.activity=1)
+
+- 🔗 [View my full contribution graph on GitHub](https://github.com/AndrewTsaknis)
+
 
 ---
 
