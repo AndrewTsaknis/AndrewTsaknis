@@ -54,9 +54,12 @@ Excel, Power Pivot, Power Query — Analyzed promotion campaigns, optimized sale
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 Contribution Stats , GitHub Metrics
+
+Here is an overview of my GitHub activity, including commits, languages, and contribution trends:
 
 ![AndrewTsaknis GitHub Metrics](https://metrics.lecoq.io/AndrewTsaknis)
+
 
 ---
 
