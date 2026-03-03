@@ -36,9 +36,6 @@ Linux, Android Studio, Google Cloud, Postman
 ---
 
 ### 🚀 Featured Projects
-*(Pin these repositories on your profile)*
-
-### 🚀 Featured Projects
 
 🔹 [Superstore Data Analysis](https://github.com/AndrewTsaknis/Sales-Analysis)  
 Python, Pandas, Matplotlib — Analyzed sales, profits, and category trends to extract business insights.
